@@ -32,6 +32,13 @@ const Skills: FC = () => {
               stack developer to contribute to the success of a dynamic and
               innovative software development team.
             </p>
+            <div className='skills__data' data-aos='fade-down'>
+              <div className='skills__names'>
+                <span className='skills__icon'>
+                  <FontAwesomeIcon size='sm' icon={faJs} />
+                </span>
+                <span className='skills__name'>JavaScript</span>
+              </div>
               <div className='skills__names'>
                 <span className='skills__icon'>
                   <FontAwesomeIcon size='sm' icon={faPython} />
@@ -56,10 +63,31 @@ const Skills: FC = () => {
             <div className='skills__data' data-aos='fade-down'>
               <div className='skills__names'>
                 <span className='skills__icon'>
+                  <FontAwesomeIcon size='sm' icon={faReact} />
+                </span>
+                <span className='skills__name'>React</span>
+              </div>
+              <div className='skills__names'>
+                <span className='skills__icon'>
+                  <FontAwesomeIcon size='sm' icon={faJava} />
+                </span>
+                <span className='skills__name'>Java</span>
+              </div>
+            </div>
+            <div className='skills__data' data-aos='fade-down'>
+              <div className='skills__names'>
+                <span className='skills__icon'>
                   <FontAwesomeIcon size='sm' icon={faTimeline} />
                 </span>
                 <span className='skills__name'>CI/CD</span>
               </div>
+              <div className='skills__names'>
+                <span className='skills__icon'>
+                  <FontAwesomeIcon size='sm' icon={faPhp} />
+                </span>
+                <span className='skills__name'>PHP</span>
+              </div>
+            </div>
             <div className='skills__data' data-aos='fade-down'>
               <div className='skills__names'>
                 <span className='skills__icon'>
