@@ -13,9 +13,9 @@ const Home: FC = () => {
           <h1 className='home__title'>
             Hi,
             <br />
-            I'am <span className='home__title-color'>Denzil</span>
+            I'am <span className='home__title-color'>Yogesh</span>
             <br />
-            Full Stack Developer
+            Python Developer
           </h1>
 
           <a
@@ -32,7 +32,7 @@ const Home: FC = () => {
 
         <div className='home__social'>
           <a
-            href='https://www.linkedin.com/in/denzil-rodrigues-08abb8151/'
+            href='https://www.linkedin.com/in/malepatiyogeshkumar/'
             className='home__social-icon'
             target='_blank'
             rel='noreferrer'
@@ -40,7 +40,7 @@ const Home: FC = () => {
             <FontAwesomeIcon size='xl' icon={faLinkedin} />
           </a>
           <a
-            href='https://github.com/denzilrdz'
+            href='https://github.com/Yogeshkumar1999'
             className='home__social-icon'
             target='_blank'
             rel='noreferrer'

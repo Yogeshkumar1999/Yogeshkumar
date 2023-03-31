@@ -13,10 +13,10 @@ const About: FC = () => {
           </div>
 
           <div>
-            <h2 className='about__subtitle'>I'am Denzil</h2>
+            <h2 className='about__subtitle'>I'am Yogesh</h2>
             <p className='about__text'>
               Seeking a challenging software engineering role that leverages my
-              experience as a full stack developer, strong technical skills, and
+              experience as a Python  developer, strong technical skills, and
               passion for creating innovative software solutions. With
               proficiency in multiple programming languages and frameworks, I am
               confident in my ability to design, develop, and maintain complex

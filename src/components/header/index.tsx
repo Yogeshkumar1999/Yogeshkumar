@@ -13,7 +13,7 @@ const Header: FC = () => {
           <div>
             {/* eslint-disable-next-line */}
             <a href='#' className='nav__logo' rel='noreferrer'>
-              Denzil Rodrigues
+              Yogesh Kumar
             </a>
           </div>
 
